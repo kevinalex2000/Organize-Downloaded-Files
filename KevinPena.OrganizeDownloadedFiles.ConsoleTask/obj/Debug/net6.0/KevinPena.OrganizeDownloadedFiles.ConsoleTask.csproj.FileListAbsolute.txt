@@ -1,0 +1,15 @@
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\bin\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.exe
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\bin\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.deps.json
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\bin\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.runtimeconfig.json
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\bin\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.dll
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\bin\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.pdb
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.csproj.AssemblyReference.cache
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.AssemblyInfoInputs.cache
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.AssemblyInfo.cs
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.csproj.CoreCompileInputs.cache
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.dll
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\refint\KevinPena.OrganizeDownloadedFiles.ConsoleTask.dll
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.pdb
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\KevinPena.OrganizeDownloadedFiles.ConsoleTask.genruntimeconfig.cache
+D:\Users\Equipo\Proyectos\Ordenador de Archivos\KevinPena.OrganizeDownloadedFiles\KevinPena.OrganizeDownloadedFiles.ConsoleTask\obj\Debug\net6.0\ref\KevinPena.OrganizeDownloadedFiles.ConsoleTask.dll
